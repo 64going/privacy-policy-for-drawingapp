@@ -1,0 +1,2 @@
+privacy policy
+this app does not collect any information but does require read and write permissions for external storage to use some features
